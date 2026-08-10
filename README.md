@@ -3,14 +3,14 @@
 <!-- ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chandru%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React.js%20%7C%20ML%2FAI%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chandru%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20Intern%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React.js%20%7C%20LLM%20%2F%20ML%20Systems&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- ============================================================ -->
 <!--  2. TYPING HEADER                                             -->
 <!-- ============================================================ -->
 
 <a href="https://github.com/Chandru-4545">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Chandru+M+%F0%9F%91%8B;Full+Stack+Java+%2B+React+Developer;MCA+Student+%40+Dayananda+Sagar+University;Building+AI-powered+%26+ML-driven+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Chandru+M+%F0%9F%91%8B;AI+Engineer+Intern+%40+Caze+Labs;Full+Stack+Java+%2B+React+Developer;MCA+Student+%40+Dayananda+Sagar+University;Building+AI-powered+%26+ML-driven+applications" alt="Typing SVG" />
 </a>
 
 <p>
@@ -23,7 +23,7 @@
 </div>
 
 <!-- ============================================================ -->
-<!--  3. CODE-BLOCK ABOUT ME                                       -->
+<!--  3. ABOUT ME                                                  -->
 <!-- ============================================================ -->
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -32,9 +32,13 @@
 
 🎓 &nbsp; I'm a **Master of Computer Applications** student at **Dayananda Sagar University, Bengaluru**, graduating in 2026 with a CGPA of **8.22/10**.
 
+⚙️ &nbsp; Currently working as an **AI Engineer Intern at Caze Labs**, building **Cost Sense** — an AI-powered cloud cost management platform that turns Kubernetes and infrastructure metrics into actionable cost insights.
+
 💻 &nbsp; I build **full-stack applications** with **Java, Spring Boot, and React.js**, and I'm equally comfortable working across **Python, JavaScript, SQL, MySQL, and MongoDB**.
 
-🔭 &nbsp; Lately I've been diving into **Generative AI, LLMs & RAG systems, AWS Cloud, and Cybersecurity** — turning that curiosity into real, working projects rather than just tutorials.
+🤖 &nbsp; On the AI/ML side, I work with **Google Gemini, LLM-driven rule generation, Prometheus/PromQL infrastructure metrics, and time-series forecasting**.
+
+🔭 &nbsp; Currently deepening my skills in **RAG systems, AWS Cloud, and Cybersecurity** — turning that curiosity into real, working projects rather than just tutorials.
 
 ☕ &nbsp; **Fun fact:** I turn coffee, curiosity, and one too many Stack Overflow tabs into working apps.
 
@@ -65,15 +69,26 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
 </p>
 
-**Cloud & DevOps**
+**AI / ML**
+<p>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook%20Prophet-1877F2?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20%2F%20RAG-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+**Cloud & Infrastructure**
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
@@ -84,10 +99,12 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-**Tools**
+**Tools & Testing**
 <p>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"/>
 </p>
 
 <!-- ============================================================ -->
@@ -141,12 +158,25 @@
 </div>
 
 <!-- ============================================================ -->
-<!-- 10. EXPERIENCE (project-based — no formal employment on résumé) -->
+<!-- 10. EXPERIENCE                                                -->
 <!-- ============================================================ -->
 
 ### 💼 Experience
 
-> No formal work history was listed on the résumé — the entries below reflect hands-on, project-based experience built during the MCA program.
+<details open>
+<summary><b>⚙️ AI Engineer Intern — Caze Labs | Apr 2026 – Aug 2026 | Bengaluru, Karnataka</b></summary>
+<br/>
+
+> `Python` `Google Gemini` `Prometheus` `PromQL` `Kubernetes` `Pydantic` `Pytest`
+
+- Contributed to **Cost Sense**, an AI-powered cloud cost management platform for analyzing and optimizing Kubernetes and infrastructure costs.
+- Built AI-driven rule generation and recommendation workflows using **Python, Google Gemini, Prometheus, and PromQL** to transform infrastructure metrics into actionable cost insights.
+- Developed context assembly, rule validation, rule evaluation, and helper execution workflows supporting automated infrastructure analysis.
+- Implemented a generic validation framework using **Pydantic, YAML, and JSON** for structured configuration, schema validation, and consistency checking.
+- Integrated automated testing and application logging with **Pytest** and Python Logging to improve reliability and maintainability of AI-Engine components.
+- Worked with **Kubernetes and Prometheus** metrics — CPU utilization, memory usage, storage consumption, and network activity — for infrastructure cost analysis.
+
+</details>
 
 <details>
 <summary><b>🔮 Independent Project — Gold Price Prediction System | 2025 – 2026 | Bengaluru, India</b></summary>
@@ -207,20 +237,18 @@
 <!-- 12. ACHIEVEMENTS / CERTIFICATIONS                             -->
 <!-- ============================================================ -->
 
-### 🏅 Achievements & Certifications
-
-> The résumé didn't list hackathon wins or competitive-coding stats, so this table highlights certifications with exact details from the résumé.
+### 🏅 Certifications
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
+| 🎖️ | Certification | Issuer |
 |---|---|---|
-| 🔐 | Cisco Certified Support Technician (CCST) – Cybersecurity | Issued by Cisco, 2025 |
-| 🛡️ | Certified Secure Computer User (CSCU) | Issued by EC-Council |
-| 🐍 | Python for Data Science and Machine Learning | Issued by Infosys Springboard |
-| ☁️ | AWS Cloud Practitioner Essentials | AWS Training & Certification — Completed Dec 2025 |
-| ☁️ | AWS Technical Essentials | AWS Training & Certification — Completed Nov 2025 |
-| ✨ | Principles of Generative AI Certification | Issued by Infosys Springboard |
+| 🔐 | Cisco Certified Support Technician (CCST) – Cybersecurity | Cisco, 2025 |
+| 🛡️ | Certified Secure Computer User (CSCU) | EC-Council |
+| 🐍 | Python for Data Science and Machine Learning | Infosys Springboard |
+| ☁️ | AWS Cloud Practitioner Essentials | AWS, 2025 |
+| ☁️ | AWS Technical Essentials | AWS, 2025 |
+| ✨ | Principles of Generative AI Certification | 2025 |
 
 </div>
 
@@ -242,10 +270,10 @@
 ### 📚 Currently Learning
 
 ```text
-🧠 Generative AI        → Prompt Engineering, LLM Fundamentals
 🔍 RAG Systems          → Embeddings, Vector DBs, Semantic Search
 ☁️  AWS Cloud            → Cloud Practitioner, Technical Essentials
 🔐 Cybersecurity        → Secure Computing, Support Fundamentals
+⚙️  Infra & Observability → Kubernetes, Prometheus, PromQL
 ```
 
 <br/>
