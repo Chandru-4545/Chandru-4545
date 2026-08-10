@@ -30,32 +30,15 @@
 
 ### 👨‍💻 About Me
 
-```java
-public class Chandru extends Developer {
+🎓 &nbsp; I'm a **Master of Computer Applications** student at **Dayananda Sagar University, Bengaluru**, graduating in 2026 with a CGPA of **8.22/10**.
 
-    private String name        = "Chandru M";
-    private String location    = "Bangalore, Karnataka, India";
-    private String degree      = "MCA @ Dayananda Sagar University";
-    private double cgpa        = 8.22;
+💻 &nbsp; I build **full-stack applications** with **Java, Spring Boot, and React.js**, and I'm equally comfortable working across **Python, JavaScript, SQL, MySQL, and MongoDB**.
 
-    private String[] stack = {
-        "Java", "Spring Boot", "React.js",
-        "Python", "JavaScript", "SQL", "MySQL", "MongoDB"
-    };
+🔭 &nbsp; Lately I've been diving into **Generative AI, LLMs & RAG systems, AWS Cloud, and Cybersecurity** — turning that curiosity into real, working projects rather than just tutorials.
 
-    private String[] currentlyLearning = {
-        "Generative AI", "LLMs & RAG Systems",
-        "AWS Cloud", "Cybersecurity"
-    };
+☕ &nbsp; **Fun fact:** I turn coffee, curiosity, and one too many Stack Overflow tabs into working apps.
 
-    private String funFact =
-        "I turn coffee, curiosity, and Stack Overflow tabs into working apps ☕";
-
-    public String motto() {
-        return "Build scalable software. Solve real problems. Keep learning.";
-    }
-}
-```
+> *"Build scalable software. Solve real problems. Keep learning."*
 
 <br clear="right"/>
 
@@ -213,7 +196,6 @@ public class Chandru extends Developer {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Gold Price Prediction System](https://github.com/Chandru-4545)** | Python · Flask · React.js · Facebook Prophet | Time-series forecasting with RSI/MA indicators; walk-forward backtesting at **~4.2% MAPE** |
 | **[FocusFlame – Attention Budget App](https://github.com/Chandru-4545)** | Spring Boot · React.js · MySQL | **12+ REST APIs** with validation & global exception handling; full productivity analytics dashboard |
 | **[RAG System](https://github.com/Chandru-4545/rag-system)** | Python · LLM · Vector Database | Modular RAG pipeline — ingestion, embeddings, semantic search & context-aware generation |
 | **[Smart City Management System](https://github.com/Chandru-4545/Smart-City-Project)** | Java · MySQL | Digital platform for citizen services with database-integrated, user-friendly interfaces |
