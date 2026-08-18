@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Chandru-4545">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+Intern+%40+Caze+Labs;MCA+%40+Dayananda+Sagar+University;Full-Stack+%26+AI%2FML+Developer;Building+with+Java%2C+Python+%26+React.js;Always+learning%2C+always+building.&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+Intern+%40+Caze+Labs;MCA+Student+%40+Dayananda+Sagar+University;Full-Stack+%26+AI%2FML+Developer;Building+with+Java%2C+Python+%26+React.js;Always+learning%2C+always+building.&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22"/>
   </a>
 </p>
 
@@ -15,6 +15,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chandru-4545&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views"/>
 </p>
+
+portfolio: <a href="https://breathtaking-dialects-998326-0a72f445c.framer.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white"/></a>
 
 ---
 
