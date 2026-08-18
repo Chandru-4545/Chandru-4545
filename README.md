@@ -1,10 +1,19 @@
 <h1 align="center">Hi 👋, I'm Chandru M</h1>
-<h3 align="center">AI Engineer Intern | MCA Student | Full-Stack & AI/ML Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/Chandru-4545">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+Intern+%40+Caze+Labs;MCA+%40+Dayananda+Sagar+University;Full-Stack+%26+AI%2FML+Developer;Building+with+Java%2C+Python+%26+React.js;Always+learning%2C+always+building.&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/chandru-m-746b21287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chandrusharma4545@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Chandru-4545"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chandru-4545&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -118,6 +127,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandru-4545&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandru-4545&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
